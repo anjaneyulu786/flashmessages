@@ -1,0 +1,12 @@
+
+ .animatewell{
+    width:50%; 
+    background-image: linear-gradient(-360deg, #1ba0c8, white);
+    display: none;
+    position: relative;
+    animation-name: flashmsg;
+    animation-duration: 4s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+    
+}
